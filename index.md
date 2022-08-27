@@ -3,7 +3,7 @@
 ## Table of contents
 
 * [Overview](#overview)
-* Mockup Pages (coming soon)
+* [Mockup Pages](#mockup-pages)
 * Deployment (coming soon)
 * User Guide (coming soon)
 * Developer Guide (coming soon)

@@ -1,10 +1,2 @@
-title: BowFolios
-description:
-google_analytics:
-show_downloads: false
+title: Legal ED HI
 theme: jekyll-theme-cayman
-github:
-  is_project_page: true
-  repository_url: https://github.com/bowfolios/bowfolios
-gems:
-  - jekyll-mentions
