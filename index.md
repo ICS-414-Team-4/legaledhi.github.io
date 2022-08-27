@@ -36,27 +36,17 @@ The landing page is presented to users when they visit the top-level URL to the 
 
 ![](images/mock1.png)
 
-### Index pages (Projects, Profiles, Interests)
+### Home page
 
-Bowfolios provides three public pages that present the contents of the database organized in various ways.
-
-The Profiles page shows all the current defined profiles and their associated Projects and Interests:
+After logging in, you are taken to the home page, which presents a list of urgent bills sorted by date on the left as well as a bigger overview of a selected bill in the center:
 
 ![](images/mock2.png)
 
-The Projects page shows all the currently defined Projects and their associated Profiles and Interests:
+### Bill creation page
+
+The Bill creation page will provide the authorized user to freely create a new bill with proper inputs: 
 
 ![](images/mock3.png)
-
-Finally, the Interests page shows all the currently defined Interests, and their associated Profiles and Projects:
-
-![](images/interests-page.png)
-
-### Home page
-
-After logging in, you are taken to the home page, which presents a form where you can complete and/or update your personal profile:
-
-![](images/home-page.png)
 
 ## Team
 
