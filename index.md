@@ -28,7 +28,7 @@ This application will help to streamline the legislative process and prevent mea
 
 ## Mockup Pages
 
-This section provides a walkthrough of the Bowfolios user interface and its capabilities.
+This section provides a mockup pages for the Legal ED HI user interface and its capabilities.
 
 ### Landing Page
 
@@ -58,12 +58,14 @@ After logging in, you are taken to the home page, which presents a form where yo
 
 ![](images/home-page.png)
 
-### Add Project page
-
-Once you are logged in, you can define new projects with the Add Project page:
-
-![](images/add-project-page.png)
-
 ## Team
 
-BowFolios is designed, implemented, and maintained by [Philip Johnson](https://philipmjohnson.org) and [Cam Moore](https://cammoore.github.io/).
+* [Lise Marie Nilsen](https://github.com/lisemnilsen)
+* [Zachary Gilbert](https://github.com/zakgilbert)
+* [Steven Le](https://github.com/sle417)
+* [YongSung Masuda](https://github.com/yongsungm)
+* [Hyunjun Song](https://github.com/eric-song1773)
+* [William Liang](https://github.com/William-Liang808)
+* [Kristine Rivera](https://github.com/tineriver)
+* [Cathy Kim](https://github.com/cathy-kim95)
+
