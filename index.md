@@ -34,7 +34,7 @@ This section provides a mockup pages for the Legal ED HI user interface and its 
 
 The landing page is presented to users when they visit the top-level URL to the site.
 
-![](images/landing-page.png)
+![](images/mock1.png)
 
 ### Index pages (Projects, Profiles, Interests)
 
@@ -42,11 +42,11 @@ Bowfolios provides three public pages that present the contents of the database 
 
 The Profiles page shows all the current defined profiles and their associated Projects and Interests:
 
-![](images/profiles-page.png)
+![](images/mock2.png)
 
 The Projects page shows all the currently defined Projects and their associated Profiles and Interests:
 
-![](images/projects-page.png)
+![](images/mock3.png)
 
 Finally, the Interests page shows all the currently defined Interests, and their associated Profiles and Projects:
 
