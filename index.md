@@ -34,19 +34,26 @@ This section provides a mockup pages for the Legal ED HI user interface and its 
 
 The landing page is presented to users when they visit the top-level URL to the site.
 
-![](images/mock1.png)
+![](images/landing_page.jpg)
 
 ### Home page
 
 After logging in, you are taken to the home page, which presents a list of urgent bills sorted by date on the left as well as a bigger overview of a selected bill in the center:
 
-![](images/mock2.png)
+![](images/home_page.jpg)
 
 ### Bill creation page
 
 The Bill creation page will provide the authorized user to freely create a new bill with proper inputs: 
 
-![](images/mock3.png)
+![](images/bill_creation_page.jpg)
+
+### Search page
+
+The search page will provide the authorized user to search the bill with the keywords:
+
+![](images/search_page.jpg)
+
 
 ## Team
 
