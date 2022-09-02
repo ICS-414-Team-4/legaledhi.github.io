@@ -1,4 +1,4 @@
-# Legal ED HI
+# Ala Hele
 
 ## Table of contents
 
@@ -28,7 +28,7 @@ This application will help to streamline the legislative process and prevent mea
 
 ## Mockup Pages
 
-This section provides a mockup pages for the Legal ED HI user interface and its capabilities.
+This section provides a mockup pages for the Ala Hele user interface and its capabilities.
 
 ### Landing Page
 

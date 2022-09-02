@@ -1,7 +1,7 @@
-title: Legal ED HI
+title: Ala Hele
 theme: jekyll-theme-cayman
 github:
   is_project_page: true
-  repository_url: https://github.com/legaledhi/legaledhi
+  repository_url: https://github.com/alahele/alahele
 gems:
   - jekyll-mentions
