@@ -53,6 +53,10 @@ This section provides a mockup pages for the Ala Hele user interface and its cap
 
 ![](images/screenshot_hearingList.png)
 
+### Individual Hearing Page
+
+![](images/individual-hearing.png)
+
 ### Individual Bill Page
 
 ![](images/screenshot_bill.png)
