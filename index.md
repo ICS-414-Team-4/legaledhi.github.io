@@ -25,42 +25,55 @@ Some of the main functions of this tool will be:
 
 This application will help to streamline the legislative process and prevent measures from accidentally being retired due to disorganization or miscommunication.
 
-
 ## Mockup Pages
 
 This section provides a mockup pages for the Ala Hele user interface and its capabilities.
 
 ### Landing Page
 
-The landing page is presented to users when they visit the top-level URL to the site.
+![](images/screenshot_landing.png)
 
-![](images/landing_page.jpg)
+### Login Page
 
-### Home page
+![](images/screenshot_login.png)
 
-After logging in, you are taken to the home page, which presents a list of urgent bills sorted by date on the left as well as a bigger overview of a selected bill in the center:
+### Homepage
 
-![](images/home_page.jpg)
+![](images/screenshot_homepage.png)
 
-### Bill creation page
+### Bill List Page
 
-The Bill creation page will provide the authorized user to freely create a new bill with proper inputs: 
+![](images/screenshot_billList.png)
 
-![](images/bill_creation_page.jpg)
+### Testimony List Page
 
-### Search page
+![](images/screenshot_testimonyList.png)
 
-The search page will provide the authorized user to search the bill with the keywords:
+### Hearing List Page
 
-![](images/search_page.jpg)
+![](images/screenshot_hearingList.png)
 
+### Individual Bill Page
+
+![](images/screenshot_bill.png)
+
+### Testimony Page
+
+![](images/screenshot_testimony.png)
+
+### Create a Testimony Page
+
+![](images/screenshot_createTestimony.png)
+
+### User Profile Page
+
+![](images/screenshot_profile.png)
 
 ## Team
 
 * [Lise Marie Nilsen](https://github.com/lisemnilsen)
 * [Zachary Gilbert](https://github.com/zakgilbert)
 * [Steven Le](https://github.com/sle417)
-* [YongSung Masuda](https://github.com/yongsungm)
 * [Hyunjun Song](https://github.com/eric-song1773)
 * [William Liang](https://github.com/William-Liang808)
 * [Kristine Rivera](https://github.com/tineriver)
