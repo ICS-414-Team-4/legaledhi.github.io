@@ -73,6 +73,14 @@ This section provides a mockup pages for the Ala Hele user interface and its cap
 
 ![](images/screenshot_profile.png)
 
+## Continuous Integration
+
+[![ci-ala-hele](https://github.com/alahele/alahele/actions/workflows/ci.yml/badge.svg)](https://github.com/alahele/alahele/actions/workflows/ci.yml)
+
+Ala Hele uses GitHub Actions to automatically run ESLint and TestCafe each time a commit is made to the default branch. You can see the results of all recent “workflows” at https://github.com/alahele/alahele/actions.
+
+The workflow definition file is located at .github/workflows/ci.yml.
+
 ## Team
 
 * [Lise Marie Nilsen](https://github.com/lisemnilsen)
