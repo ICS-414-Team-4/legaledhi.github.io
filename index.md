@@ -8,7 +8,7 @@
 * User Guide (coming soon)
 * Developer Guide (coming soon)
 * Development History(coming soon)
-* [Continuous Integration](#continous-integartion)
+* [Continuous Integration](#continous-integration)
 * [Team](#team)
 
 ## Overview
