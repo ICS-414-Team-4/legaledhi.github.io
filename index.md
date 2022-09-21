@@ -8,7 +8,7 @@
 * User Guide (coming soon)
 * Developer Guide (coming soon)
 * Development History(coming soon)
-* Continuous Integration(coming soon)
+* [Continuous Integration](#continous-integartion)
 * [Team](#team)
 
 ## Overview
@@ -79,7 +79,7 @@ This section provides a mockup pages for the Ala Hele user interface and its cap
 
 Ala Hele uses GitHub Actions to automatically run ESLint and TestCafe each time a commit is made to the default branch. You can see the results of all recent “workflows” at https://github.com/alahele/alahele/actions.
 
-The workflow definition file is located at .github/workflows/ci.yml.
+The workflow definition file is located at `.github/workflows/ci.yml`.
 
 ## Team
 
