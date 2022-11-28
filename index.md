@@ -31,47 +31,47 @@ This section provides a mockup pages for the Ala Hele user interface and its cap
 
 ### Landing Page
 
-![](images/screenshot_landing.png)
+![](images/screenshot_landing2.png)
 
 ### Login Page
 
-![](images/screenshot_login.png)
+![](images/screenshot_login2.png)
 
 ### Homepage
 
-![](images/screenshot_homepage.png)
+![](images/screenshot_homepage2.png)
 
 ### Bill List Page
 
-![](images/screenshot_billList.png)
+![](images/screenshot_bill_list2.png)
 
 ### Testimony List Page
 
-![](images/screenshot_testimonyList.png)
+![](images/screenshot_testimony_list2.png)
 
 ### Hearing List Page
 
-![](images/screenshot_hearingList.png)
+![](images/screenshot_hearing_list2.png)
 
 ### Individual Hearing Page
 
-![](images/individual-hearing.png)
+![](images/screenshot_hearing2.png)
 
 ### Individual Bill Page
 
-![](images/screenshot_bill.png)
+![](images/screenshot_bill2.png)
 
 ### Testimony Page
 
-![](images/screenshot_testimony.png)
+![](images/screenshot_testimony2.png)
 
 ### Create a Testimony Page
 
-![](images/screenshot_createTestimony.png)
+![](images/screenshot_create_testimony2.png)
 
 ### User Profile Page
 
-![](images/screenshot_profile.png)
+![](images/screenshot_profile2.png)
 
 ## Continuous Integration
 
